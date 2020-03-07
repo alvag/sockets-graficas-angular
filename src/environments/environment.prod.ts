@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  wsUrl: 'https://sockets-graficas-angular.maxalva.com'
+    wsUrl: 'http://localhost:3000'
 };
